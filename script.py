@@ -9,7 +9,7 @@ from requests_html import HTMLSession
 
 # https://web3py.readthedocs.io/en/stable/web3.main.html
 
-# web3 = Web3(Web3.HTTPProvider('https://mainnet.infura.io/v3/6995c66122144513a1bc87c8074638c5'))
+# web3 = Web3(Web3.HTTPProvider('https://mainnet.infura.io/v3/TOKEN'))
 
 
 s = HTMLSession()
